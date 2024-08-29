@@ -10,6 +10,5 @@ var OptionCmd = &cobra.Command{
 }
 
 func init() {
-	// OptionCmd.AddCommand(getPoolCmd)
 	// OptionCmd.AddCommand(mintCmd)
 }
